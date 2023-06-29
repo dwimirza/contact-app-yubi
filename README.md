@@ -16,4 +16,4 @@ Untuk instalasi project setelah selesai clone repository, berikut adalah tahapan
 
 2. generate key dengan `php artisan key:generate`
 3. Setelah itu segera buat database dan update di `.env`
-4. migrate database ddengan `php artisan migrate` 
+4. migrate database dengan `php artisan migrate` 
